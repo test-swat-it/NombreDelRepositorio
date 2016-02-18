@@ -1,1 +1,3 @@
 Libro Base Prueba Git Windows
+Capitulo1=Capitulo 1
+Capitulo1=Chapter 1
