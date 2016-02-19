@@ -1,5 +1,12 @@
 Libro Base Prueba Git Windows
 Capitulo1=Capitulo 1
 Capitulo1=Chapter 1
+<<<<<<< HEAD
 Capitulo1.1=Capitulo 1.1
 Capitulo1.1=Chapter 1.1
+=======
+Capitulo2=Capitulo 2
+Capitulo2=Chapter 2
+Capitulo2.1=Capitulo 2.1
+Capitulo2.1=Chapter 2.1
+>>>>>>> refs/remotes/origin/Chapter_2
