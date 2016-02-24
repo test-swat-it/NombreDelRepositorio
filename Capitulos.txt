@@ -11,3 +11,5 @@ Capitulo2=Chapitre 2
 Capitulo2.1=Capitulo 2.1
 Capitulo2.1=Chapter 2.1
 Capitulo2.1=Chapitre 2.1
+Capitulo3=Chapitre 3
+Capitulo4=Chapitre 4
